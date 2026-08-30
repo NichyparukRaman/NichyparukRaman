@@ -12,15 +12,15 @@ ___
 ___
 -->
 ## My projects:
-### <a href="https://github.com/NichiporukRoman/TheWayBy" target="_blank">TheWayBy</a>
+### <a href="https://github.com/NichyparukRaman/TheWayBy" target="_blank">TheWayBy</a>
 Chat-bot of tourist routes of Belarus! We will gladly show you all the most beautiful corners of our unique country Immerse yourself in a real journey and discover Belarus!
 <!--### <a href="https://github.com/NichiporukRoman/WG" target="_blank">WorldGuru</a>
 Team project. The app is a set of mini-games on geographical topics: defining the flag of the country, knowing the fact about it, knowing the country’s territory and characteristics. The app provides the ability to register a user, authenticate them subsequently, and save progress in minigames, as well as games without registering
 without retaining progress.-->
-### <a href="https://github.com/NichiporukRoman/BSU-Projects" target="_blank">BSU Projects</a>
+### <a href="https://github.com/NichyparukRaman/BSU-Projects" target="_blank">BSU Projects</a>
 This repository consists of almost all of my laboratory work that I performed during my studies at BSU.
 ___
-Here you can fnd my [CV](https://github.com/NichiporukRoman/NichiporukRoman/blob/main/CV.pdf). 
+Here you can fnd my [CV](https://github.com/NichyparukRaman/NichyparukRaman/blob/main/CV.pdf). 
 <!--
 **NiCHUY/NiCHUY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
