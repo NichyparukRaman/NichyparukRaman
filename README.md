@@ -1,12 +1,16 @@
 # Welcome here, I'm <a href="https://github.com/NichiporukRoman" target="_blank">Roman</a>🌱
 ### Work path
-BSU | student | 2021 - 2025
 
-Eurotorg | analysis | 2025 - present
+| Organization | Position | Period |
+| ----------- | ----------- | ----------- |
+| Belarusian State University | Student | 2021 - 2025 |
+| Eurotorg | Analysis | 2025 - present |
+
 ___
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCHUY&layout=donut)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NichiporukRoman&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=15)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NichiporukRoman&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=15)
 ___
+-->
 ## My projects:
 ### <a href="https://github.com/NichiporukRoman/TheWayBy" target="_blank">TheWayBy</a>
 Chat-bot of tourist routes of Belarus! We will gladly show you all the most beautiful corners of our unique country Immerse yourself in a real journey and discover Belarus!
