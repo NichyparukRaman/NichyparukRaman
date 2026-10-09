@@ -1,10 +1,10 @@
 # Welcome here, I'm <a href="https://github.com/NichiporukRoman" target="_blank">Roman</a>⚡
 ### Work path
 
-| Organization | Position | Period |
-| ----------- | ----------- | ----------- |
-| Belarusian State University | Student | 2021 - 2025 |
-| Eurotorg | Analysis | 2025 - present |
+| Organization | Logo | Position | Period |
+| ----------- | ----------- | ----------- | ----------- |
+| Belarusian State University | <img width="40" height="56" alt="image" src="https://github.com/user-attachments/assets/a360d4f3-2c39-4581-b3e4-2d8f6cf434aa" /> | Student | 2021 - 2025 |
+| Eurotorg | <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/517893c6-ecf4-4f4c-91d3-40bde24ce91d" /> | Analysis | 2025 - present |
 
 ___
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCHUY&layout=donut)-->
