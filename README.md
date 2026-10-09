@@ -1,4 +1,4 @@
-# Welcome here, I'm <a href="https://github.com/NichiporukRoman" target="_blank">Roman</a>🌱
+# Welcome here, I'm <a href="https://github.com/NichiporukRoman" target="_blank">Roman</a>⚡
 ### Work path
 
 | Organization | Position | Period |
