@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+___
+### Other languages:
+<a href="https://github.com/NichyparukRaman/NichyparukRaman/blob/main/README-BY.md" target="_blank"> <img width="32" height="16" alt="image" src="https://github.com/user-attachments/assets/a43b2e37-3da8-4dfb-8a6b-5160a1dc0ee1" /></a>
+<a href="https://github.com/NichyparukRaman/NichyparukRaman/blob/main/README-RU.md" target="_blank"> <img width="32" height="16" alt="image" src="https://github.com/user-attachments/assets/088097f2-08ed-477f-836e-8760ecbc24f3" /></a>
